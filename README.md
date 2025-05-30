@@ -1,6 +1,3 @@
-Here's your properly formatted and polished GitHub README section with bullet points, emojis, and clear steps:
-
----
 
 ## 📊 Real-Time Forex Trading Dashboard
 
@@ -12,7 +9,6 @@ Built with **Python**, **Google BigQuery**, **Power BI**, and the **TwelveData A
 * 🕰️ Historical data modeling
 * 🧊 OLAP operations (slice, dice, drill-down, pivot)
 
----
 
 ## 🔧 How to Load the Data
 
@@ -29,7 +25,6 @@ Built with **Python**, **Google BigQuery**, **Power BI**, and the **TwelveData A
    http://localhost:5000/fetch
    ```
 
----
 
 ## 🗂️ Setting Up Google BigQuery
 
@@ -37,7 +32,6 @@ Built with **Python**, **Google BigQuery**, **Power BI**, and the **TwelveData A
 * The data is structured using a **star schema** (fact and dimension tables).
 * This data will serve as the backend source for Power BI.
 
----
 
 ## 📊 Loading Data into Power BI
 
@@ -46,6 +40,4 @@ Built with **Python**, **Google BigQuery**, **Power BI**, and the **TwelveData A
 3. Use the **DirectQuery** mode to import data.
 4. Enable **auto-refresh** to keep the dashboard updated in real-time.
 
----
 
-Let me know if you'd like to add sections like requirements, screenshots, or badges!
